@@ -1,0 +1,68 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+  <title>Build an Event Flyer Page</title>
+</head>
+<header>
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/event.jpg" alt="rocks"  />
+  <h1>Pet Rock Festival</h1>
+  <p>Join us for the first annual Pet Rock Festival!</p>
+  <p><b>When:</b> October 3rd <b>Where:</b> Boulder Park</p>
+  <hr>
+</header>
+<body>
+  <main>
+    <section>
+      <h2>Festival Highlights</h2>
+      <ul>
+        <li>Pet Rock Obedience Shows</li>
+        <li>Best Dressed Pet Rock Contest</li>
+        <li>Pet Rock Uphill Racing</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Special Guests</h2>
+      <ul>
+        <li>John Gravel</li>
+        <li>Wendy Cobblestone</li>
+      </ul>
+    </section>
+     <section>
+      <h2>Food Trucks</h2>
+      <ul>
+        <li>Rock 'n' Roll Tacos</li>
+        <li>Granite Grill</li>
+        <li>Stone Cold Smoothies</li>
+      </ul>
+    </section>
+  </main>
+</body>
+
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+body{
+  padding: 50px 50px;
+  margin: 0px auto;
+  width: 90vw;
+  min-height: calc(100vh - 100px);
+
+}
+section{
+  width: 95%;
+}
+hr{
+  width: 95%;
+}
+
+** end of undefined **
+
